@@ -42,9 +42,29 @@ RUNTEQ祭に合わせて54期の仲間たちとの絆を深めるための場を
 - Tailwind CSSでスタイリングし、レスポンシブデザインを実現する。
 
 ## ■ 技術構成
-- フロントエンド: React, Next.js, Tailwind CSS
-- ライブラリ: MaterialUI, Materialicons, ShadCn, react-spring
-- アニメーション: framer-motion
+| カテゴリ |　使用技術　|
+|:-------|:-------|
+|フロントエンド|React ・ Next.js|
+|CSSフレームワーク|Tailwind CSS|
+|ライブラリ|MaterialUI ・ Materialicons ・ ShadCn ・ react-spring|
+|アニメーション|Framer Motion|
+|環境構築|Docker|
+|インフラ|Vercel|
+
+## ■ メンバー/役割
+| メンバー |　役割　| 内容 |
+|:-------|:-------|:-------|
+|kato|PM|全体監視|
+|rei|PL|進行兼開発|
+|syuji|PdM|ルール周り指揮、開発|
+|mick|デザイン|Topページ|
+|sima9z|デザイン|プロフィールページ|
+|shino|デザイン|デザインフォロー|
+|かなナッツ|デザイン|開発|
+|mちゃん|デザイン|開発|
+|なつ|デザイン|開発|
+
+合計9名
 
 ## ■ 画面遷移図
 https://www.figma.com/design/SE3YPIcbwRS8erdhSkIxiE/%E3%81%BE%E3%81%A8%E3%82%81?node-id=0-1&t=EcJLBgQgm5HC2L5C-1
