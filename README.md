@@ -66,6 +66,7 @@ RUNTEQ祭に合わせて54期の仲間たちとの絆を深めるための場を
 
 合計9名
 
+
 ## ■ 画面遷移図
 https://www.figma.com/design/SE3YPIcbwRS8erdhSkIxiE/%E3%81%BE%E3%81%A8%E3%82%81?node-id=0-1&t=EcJLBgQgm5HC2L5C-1
 
