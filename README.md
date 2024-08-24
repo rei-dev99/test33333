@@ -1,5 +1,7 @@
 # 🍓 runteq_festival_54 🍓
 
+![Red Beige Circle Juice Drink Logo](https://github.com/user-attachments/assets/9359f6df-e04c-4595-b046-0091feacd180)
+
 ## ■ 開発者はdocumentフォルダにて開発のルールを確認してください！！！
 
 ## ■ サービスURL
