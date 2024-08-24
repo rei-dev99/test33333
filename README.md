@@ -74,7 +74,11 @@ RUNTEQ祭に合わせて54期の仲間たちとの絆を深めるための場を
 https://www.figma.com/design/SE3YPIcbwRS8erdhSkIxiE/%E3%81%BE%E3%81%A8%E3%82%81?node-id=0-1&t=EcJLBgQgm5HC2L5C-1
 
 ## ■ 学習教材
-- モダンJavaScriptの基礎から始める挫折しないためのReact入門(https://www.udemy.com/course/modern_javascipt_react_beginner)
-- Reactに入門した人のためのもっとReactが楽しくなるステップアップコース完全版(https://www.udemy.com/course/react_stepup/)
-- React Foundation(https://nextjs.org/learn/react-foundations)
-- Next.js公式チュートリアル(https://nextjs.org/learn)
+- モダンJavaScriptの基礎から始める挫折しないためのReact入門
+(https://www.udemy.com/course/modern_javascipt_react_beginner)
+- Reactに入門した人のためのもっとReactが楽しくなるステップアップコース完全版
+(https://www.udemy.com/course/react_stepup/)
+- React Foundation
+(https://nextjs.org/learn/react-foundations)
+- Next.js公式チュートリアル
+(https://nextjs.org/learn)
