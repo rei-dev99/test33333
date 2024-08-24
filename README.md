@@ -1,5 +1,5 @@
-# 🍓 runteq_festival_54 🍓
-54期紹介プラットフォーム
+# 🍓 RUNTEQ_FESTIVAL_54 🍓
+54期を紹介するプラットフォームサービスです。
 
 ![Red Beige Circle Juice Drink Logo](https://github.com/user-attachments/assets/9359f6df-e04c-4595-b046-0091feacd180)
 
