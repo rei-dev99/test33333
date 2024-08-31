@@ -1,5 +1,5 @@
 # 🍓🦀 RUNTEQ_FESTIVAL_54 🍓🦀
-54期を紹介するプラットフォームサービスです。
+54期メンバーを紹介するプラットフォームサービスです。
 
 ![Red Beige Circle Juice Drink Logo](https://github.com/user-attachments/assets/9359f6df-e04c-4595-b046-0091feacd180)
 
@@ -14,9 +14,10 @@ https://runteq-festival-54.vercel.app/
 ## ■ このサービスへの思い・作りたい理由
 RUNTEQ祭に合わせて54期の仲間たちとの絆を深めるための場を提供し、みんなの個性を引き出し楽しい思い出に！
 他の期の方々との交流のきっかけを作りたい！
+チーム開発におけるお作法やGit操作を学ぶことも目指しています。
 
 ## ■ ユーザー層について
-- RUNTEQ生限定
+- RUNTEQ生中心
 - 新しい友達を作りたい人や、他の期のメンバーとも交流を深めたい人に向けて
 
 ## ■サービスの利用イメージ
@@ -69,7 +70,6 @@ RUNTEQ祭に合わせて54期の仲間たちとの絆を深めるための場を
 |Rio|デザイン|開発|
 
 合計10名
-
 
 ## ■ 画面遷移図
 https://www.figma.com/design/SE3YPIcbwRS8erdhSkIxiE/%E3%81%BE%E3%81%A8%E3%82%81?node-id=0-1&t=EcJLBgQgm5HC2L5C-1
