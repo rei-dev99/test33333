@@ -71,6 +71,10 @@ RUNTEQ祭に合わせて54期の仲間たちとの絆を深めるための場を
 
 合計10名
 
+## ■ インフラ構成
+
+[![Image from Gyazo](https://i.gyazo.com/873b5c76f30b0d5069500b17ce71632c.png)](https://gyazo.com/873b5c76f30b0d5069500b17ce71632c)
+
 ## ■ 画面遷移図
 https://www.figma.com/design/SE3YPIcbwRS8erdhSkIxiE/%E3%81%BE%E3%81%A8%E3%82%81?node-id=0-1&t=EcJLBgQgm5HC2L5C-1
 
